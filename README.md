@@ -156,12 +156,6 @@ status: "Can you defeat me?"
   <img src="[https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)" />
 </p>
 <br/>
-<!-- ANIMATED CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Contribution Activity</h2>
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/OPxerexe/OPxerexe/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/OPxerexe/OPxerexe/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
-</div>
-<br/>
 <!-- GITHUB STATS -->
 <h2 align="center">📊 Analytics & Metrics</h2>
 <div align="center">
