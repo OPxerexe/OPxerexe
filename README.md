@@ -156,18 +156,3 @@ status: "Can you defeat me?"
   <img src="[https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)" />
 </p>
 <br/>
-<!-- GITHUB STATS -->
-<h2 align="center">📊 Analytics & Metrics</h2>
-<div align="center">
-  <img src="[https://github-readme-stats.shion.dev/api?username=OPxerexe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true](https://github-readme-stats.shion.dev/api?username=OPxerexe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)" height="170" />
-  <img src="[https://github-readme-stats.shion.dev/api/top-langs/?username=OPxerexe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=OPxerexe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" height="170" />
-</div>
-<br/>
-<div align="center">
-  <img src="[https://streak-stats.demolab.com/?user=OPxerexe&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=OPxerexe&theme=tokyonight&hide_border=true)" />
-</div>
-<br/>
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="[https://komarev.com/ghpvc/?username=OPxerexe&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=OPxerexe&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)" alt="Visitor Count" />
-</div>
