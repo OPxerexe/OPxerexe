@@ -1,35 +1,94 @@
-# 💫 About Me
-
-Hey! I'm a Developer passionate about building **AI-powered systems** and exploring modern technologies.
-
-🤖 Working on **Technical AI Agents** and intelligent automation  
-💻 Creating software projects with clean and scalable architectures  
-🔐 Learning about **Ethical Hacking & Cyber Security**  
-🚀 Always exploring new technologies and improving my skills  
-
----
-
-# 🌐 Connect With Me
-
 <div align="center">
 
-### 👤 OPxerexe
-
-💻 GitHub: **OPxerexe**  
-✈️ Telegram: **@ItsShaah**  
-📧 Email: **opxereca@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+OPxerexe;Developer+%7C+Coder+%7C+Creator;Welcome+to+my+GitHub+profile" />
 
 </div>
 
+<br>
+
+<h1 align="center">⚡ OPxerexe ⚡</h1>
+
+<p align="center">
+  🚀 Developer | 💻 Programmer | 🧠 Tech Enthusiast
+</p>
+
+<p align="center">
+  I love building projects, learning new technologies and creating cool stuff.
+</p>
+
+
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 👨‍💻 Languages
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,react,git,github,vscode,linux,docker&perline=6"/>
+
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OPxerexe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OPxerexe&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+## 🚀 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPxerexe&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/OPxerexe/OPxerexe/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/OPxerexe">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram"/>
+</a>
+
+</p>
+
+
+---
+
+<div align="center">
+
+### ⚡ "Code. Create. Improve." ⚡
+
+<img src="https://komarev.com/ghpvc/?username=OPxerexe&color=blue&style=for-the-badge"/>
+
+</div>![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
