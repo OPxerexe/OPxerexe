@@ -52,6 +52,7 @@ status: "Can you defeat me?"
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase,cloudflare,netlify&theme=dark" />
 </a>
+<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="48"/>
 </details>
 
 <details open>
@@ -60,6 +61,8 @@ status: "Can you defeat me?"
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" />
 </a>
+<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=itchio&logoColor=white" height="48"/>
 </details>
 
 <details open>
@@ -68,6 +71,7 @@ status: "Can you defeat me?"
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,selenium,nginx&theme=dark" />
 </a>
+<img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" height="48"/>
 </details>
 
 ## 📊 GitHub Stats
