@@ -22,7 +22,7 @@ status: "Can you defeat me?"
 
 ## 🧠 Tech Stack
 
-<details>
+<details open>
 <summary><b>💻 Languages</b></summary>
 <br>
 <a href="https://skillicons.dev">
