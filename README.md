@@ -33,15 +33,6 @@ status: "Can you defeat me?"
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45" height="45" alt="ThreeJS"/>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,nextjs,threejs,web3&theme=dark" />
 </a>
